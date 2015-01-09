@@ -1,48 +1,48 @@
-,# Orgs,# IE,# People,Tracker,Start,Renewed,End,Mail archive,Q3 msgs,Q4 msgs,# TR 2 yrs,# CR/Rec 2 yrs,Last Rec
-Audio Working Group,14,2,31,https://github.com/WebAudio,3/25/2011,9/26/2012,9/1/2016,public-audio,272,89,2,0,
-Authoring Tool Accessibility Guidelines Working Group,7,3,13,http://www.w3.org/WAI/AU/tracker/ ,1997-12,1999-02,9/30/2013,w3c-wai-au,44,50,2,1,2000
-Browser Testing and Tools Working Group,12,5,43,,10/12/2011,6/27/2014,12/31/2015,public-browser-tools-testing@w3.org,169,81,1,0,
-Cascading Style Sheets (CSS) Working Group,27,8,93,http://www.w3.org/Style/CSS/Tracker/ ,1997-02 (*),3/1/1999,6/15/2016,w3c-css-wg,234,292,36,11,2014
-CSV on the Web Working Group,18,8,31,http://www.w3.org/2013/csvw/track/ ,12/10/2013,,7/30/2016,public-csv-wg,142,261,3,0,
-Data on the Web Best Practices Working Group,30,4,55,http://www.w3.org/2013/dwbp/track/ ,12/10/2013,,7/30/2016,public-dwbp-wg,305,550,1,0,
-Device APIs Working Group,39,1,105,http://www.w3.org/2009/dap/track/ ,(announced 2009-07-03),8/19/2011,12/31/2015,public-device-apis,228,98,10,3,2015
-Education and Outreach Working Group,13,13,37,http://www.w3.org/WAI/EO/track/ ,3/10/1998,11/1/2000,9/30/2013,w3c-wai-eo,78,58,0,0,
-Efficient XML Interchange Working Group,8,0,17,https://www.w3.org/2005/06/tracker/exi/ ,11/18/2005,1/11/2008,5/31/2015,public-exi,0,2,4,2,2014
-Evaluation and Repair Tools Working Group,6,1,9,http://www.w3.org/WAI/ER/tracker/ ,11/1/2000,6/21/2001,9/30/2013,public-wai-ert,29,10,1,0,
-Forms Working Group,7,2,13,https://www.w3.org/2005/06/tracker/xforms/ ,2000-06-23 (§),6/4/2002,3/31/2012,public-forms,44,93,0,0,2009
-Geolocation Working Group,11,0,30,http://www.w3.org/2008/geolocation/track/ ,9/19/2008,4/26/2010,12/31/2016,public-geolocation,106,63,1,1,2013
-HTML Working Group,63,124,402,http://www.w3.org/html/wg/test/track/ ,3/7/2007,9/30/2013,6/30/2015,public-html,129,279,8,1,2014
-Independent User Interface (Indie UI) Working Group,15,5,25,,5/22/2012,,4/30/2015,public-indie-ui,54,113,3,0,
-Internationalization Working Group,12,12,34,http://www.w3.org/International/track/ ,1998-02 (as I18N WG) 2005-01-07,3/8/2000,12/31/2015,member-i18n-core and public-i18n-core and www-international,72,77,5,1,2005
-Linked Data Platform (LDP) Working Group,31,2,55,http://www.w3.org/2012/ldp/track/ ,5/9/2012,,6/1/2014,public-ldp-wg,279,184,7,2,2015
-Math Working Group,13,4,22,https://www.w3.org/2005/06/tracker/math/ ,6/28/2006,5/14/2008,3/31/2016,member-math,48,158,2,2,2014
-Multimodal Interaction Working Group,17,4,30,https://www.w3.org/2002/mmi/Group/track/ ,2/25/2002,6/2/2004,3/31/2014,www-multimodal,21,3,2,1,2014
-Near Field Communications Working Group,9,0,19,,10/19/2012,,11/1/2014,public-nfc,6,14,1,0,
-Pointer Events Working Group,10,0,17,http://www.w3.org/2012/pointerevents/track/ ,11/9/2012,9/24/2014,5/9/2015,public-pointer-events,163,103,1,1,2015
-Protocols and Formats Working Group,25,12,67,https://www.w3.org/WAI/PF/Group/track/ ,1997-12,11/1/2000,9/30/2013,w3c-wai-pf,75,110,8,3,2014
-RDF Data Shapes Working Group,17,1,30,http://www.w3.org/2014/data-shapes/track/ ,9/30/2014,,6/1/2017,public-data-shapes-wg,,700,,,
-RDFa Working Group,6,4,10,http://www.w3.org/2010/02/rdfa/track/ ,2/2/2010,3/31/2011,9/30/2013,public-rdfa,3,11,7,7,2013
-Research and Development Working Group,8,11,24,http://www.w3.org/WAI/RD/tracker/  ,4/12/2011,7/10/2013,9/30/2013,public-wai-rd,96,78,0,0,
-Second Screen Presentation Working Group,14,0,30,,10/13/2014,,10/31/2016,public-secondscreen,,76,,,
-Social Web Working Group,16,15,46,http://www.w3.org/Social/track/ ,7/21/2014,,12/31/2016,public-socialweb,255,431,2,0,
-Spatial Data on the Web Working Group,5,0,2,http://www.w3.org/2015/spatial/track/ ,1/6/2015,,12/31/2016,public-sdw-wg,,,,,
-SVG Working Group,14,1,33,http://www.w3.org/Graphics/SVG/WG/track/ ,7/24/1998,7/27/1999,10/31/2016,public-svg-wg,120,86,9,3,2011
-System Applications Working Group,30,0,81,http://www.w3.org/2012/sysapps/track/ ,10/2/2012,,10/1/2014,public-sysapps,317,264,7,0,
-Timed Text Working Group,13,4,25,http://www.w3.org/AudioVideo/TT/tracker/ ,8/16/2008,2/8/2011,3/30/2016,public-tt,317,264,4,2,2013
-Tracking Protection Working Group,34,5,81,http://www.w3.org/2011/tracking-protection/track/ ,9/8/2011,2/13/2013,12/1/2016,public-tracking,270,254,2,0,
-User Agent Accessibility Guidelines Working Group,8,6,16,http://www.w3.org/WAI/UA/tracker/ ,1997-12,11/1/2000,9/30/2013,w3c-wai-ua,114,97,2,0,2002
-Voice Browser Working Group,20,4,25,https://www.w3.org/Voice/Group/track/ ,3/26/1999,9/25/2002,4/30/2015,w3c-voice-wg,3,6,1,0,2011
-Web Annotation Working Group,21,1,41,http://www.w3.org/annotation/track/ ,8/20/2014,,10/1/2016,public-annotation,83,266,1,0,
-Web Application Security Working Group,30,4,70,http://www.w3.org/2011/webappsec/track/ ,9/7/2011,10/24/2013,9/30/2014,public-webappsec,451,906,7,1,2014
-Web Applications Working Group,32,5,164,http://www.w3.org/2008/webapps/track/ ,6/9/2008,4/13/2009,7/31/2016,public-webapps,653,644,30,10,2014
-Web Content Accessibility Guidelines Working Group,35,34,103,http://www.w3.org/WAI/GL/track/ ,1997-10,11/1/2000,9/30/2013,w3c-wai-gl,284,179,0,0,2008
-Web Cryptography Working Group,31,9,78,http://www.w3.org/2012/webcrypto/track/ ,4/4/2012,9/23/2013,3/31/2015,public-webcrypto,603,380,3,1,
-Web Notification Working Group,12,0,16,,9/10/2010,1/29/2013,12/31/2013,public-web-notification,0,4,1,0,
-Web Performance Working Group,18,1,52,http://www.w3.org/2010/webperf/track/ ,8/18/2010,4/25/2011,5/31/2015,public-web-perf,245,220,11,5,2013
-Web Real-Time Communications Working Group,41,1,96,http://www.w3.org/2011/04/webrtc/track/,5/5/2011,3/6/2013,2/28/2015,public-webrtc,137,385,6,0,
-WebFonts Working Group,9,1,23,http://www.w3.org/Fonts/WG/track/ ,3/17/2010,5/29/2012,9/30/2012,public-webfonts-wg/,93,84,2,0,2012
-XML Core Working Group,7,3,10,,8/7/1996,1999-09,5/31/2015,public-xml-core-wg,40,87,1,0,2010
-XML Processing Model Working Group,6,3,11,,10/27/2005,10/15/2007,5/31/2016,public-xml-processing-model-wg,32,107,3,0,2010
-XML Query Working Group,11,6,23,,1999-09,9/19/2001,5/31/2015,w3c-xml-query-wg,2,2,9,6,2014
-XML Security Working Group,17,3,28,http://www.w3.org/2008/xmlsec/track/ ,5/19/2008,5/5/2010,12/31/2016,public-xmlsec,10,13,15,3,2013
-XSLT Working Group,7,10,19,,(announced 1998-01-30 **),12/21/1999,5/31/2015,w3c-xsl-wg,158,124,10,7,2014
+___,# Orgs,# IE,# People,Tracker,Start,Renewed,End,Mail archive,Q3 msgs,Q4 msgs,# TR 2 yrs,# CR/Rec 2 yrs,Last Rec
+Audio Working Group,14,2,31,https://github.com/WebAudio,3/25/2011,9/26/2012,9/1/2016,http://lists.w3.org/Archives/Public/public-audio,272,89,2,0,
+Authoring Tool Accessibility Guidelines Working Group,7,3,13,http://www.w3.org/WAI/AU/tracker/,12/1/1997,2/1/1999,9/30/2013,http://lists.w3.org/Archives/Public/w3c-wai-au,44,50,2,1,2000
+Browser Testing and Tools Working Group,12,5,43,,10/12/2011,6/27/2014,12/31/2015,http://lists.w3.org/Archives/Public/public-browser-tools-testing@w3.org,169,81,1,0,
+Cascading Style Sheets (CSS) Working Group,27,8,93,http://www.w3.org/Style/CSS/Tracker/,1997-02 (*),3/1/1999,6/15/2016,http://lists.w3.org/Archives/Public/w3c-css-wg,234,292,36,11,2014
+CSV on the Web Working Group,18,8,31,http://www.w3.org/2013/csvw/track/,12/10/2013,,7/30/2016,http://lists.w3.org/Archives/Public/public-csv-wg,142,261,3,0,
+Data on the Web Best Practices Working Group,30,4,55,http://www.w3.org/2013/dwbp/track/,12/10/2013,,7/30/2016,http://lists.w3.org/Archives/Public/public-dwbp-wg,305,550,1,0,
+Device APIs Working Group,39,1,105,http://www.w3.org/2009/dap/track/,(announced 2009-07-03),8/19/2011,12/31/2015,http://lists.w3.org/Archives/Public/public-device-apis,228,98,10,3,2015
+Education and Outreach Working Group,13,13,37,http://www.w3.org/WAI/EO/track/,3/10/1998,11/1/2000,9/30/2013,http://lists.w3.org/Archives/Public/w3c-wai-eo,78,58,0,0,
+Efficient XML Interchange Working Group,8,0,17,https://www.w3.org/2005/06/tracker/exi/,11/18/2005,1/11/2008,5/31/2015,http://lists.w3.org/Archives/Public/public-exi,0,2,4,2,2014
+Evaluation and Repair Tools Working Group,6,1,9,http://www.w3.org/WAI/ER/tracker/,11/1/2000,6/21/2001,9/30/2013,http://lists.w3.org/Archives/Public/public-wai-ert,29,10,1,0,
+Forms Working Group,7,2,13,https://www.w3.org/2005/06/tracker/xforms/,2000-06-23 (§),6/4/2002,3/31/2012,http://lists.w3.org/Archives/Public/public-forms,44,93,0,0,2009
+Geolocation Working Group,11,0,30,http://www.w3.org/2008/geolocation/track/,9/19/2008,4/26/2010,12/31/2016,http://lists.w3.org/Archives/Public/public-geolocation,106,63,1,1,2013
+HTML Working Group,63,124,402,http://www.w3.org/html/wg/test/track/,3/7/2007,9/30/2013,6/30/2015,http://lists.w3.org/Archives/Public/public-html,129,279,8,1,2014
+Independent User Interface (Indie UI) Working Group,15,5,25,,5/22/2012,,4/30/2015,http://lists.w3.org/Archives/Public/public-indie-ui,54,113,3,0,
+Internationalization Working Group,12,12,34,http://www.w3.org/International/track/,1998-02 (as I18N WG) 2005-01-07,3/8/2000,12/31/2015,http://lists.w3.org/Archives/Public/public-i18n-core and www-international,72,77,5,1,2005
+Linked Data Platform (LDP) Working Group,31,2,55,http://www.w3.org/2012/ldp/track/,5/9/2012,,6/1/2014,http://lists.w3.org/Archives/Public/public-ldp-wg,279,184,7,2,2015
+Math Working Group,13,4,22,https://www.w3.org/2005/06/tracker/math/,6/28/2006,5/14/2008,3/31/2016,http://lists.w3.org/Archives/Member/member-math,48,158,2,2,2014
+Multimodal Interaction Working Group,17,4,30,https://www.w3.org/2002/mmi/Group/track/,2/25/2002,6/2/2004,3/31/2014,http://lists.w3.org/Archives/Public/www-multimodal,21,3,2,1,2014
+Near Field Communications Working Group,9,0,19,,10/19/2012,,11/1/2014,http://lists.w3.org/Archives/Public/public-nfc,6,14,1,0,
+Pointer Events Working Group,10,0,17,http://www.w3.org/2012/pointerevents/track/,11/9/2012,9/24/2014,5/9/2015,http://lists.w3.org/Archives/Public/public-pointer-events,163,103,1,1,2015
+Protocols and Formats Working Group,25,12,67,https://www.w3.org/WAI/PF/Group/track/,12/1/1997,11/1/2000,9/30/2013,http://lists.w3.org/Archives/Public/w3c-wai-pf,75,110,8,3,2014
+RDF Data Shapes Working Group,17,1,30,http://www.w3.org/2014/data-shapes/track/,9/30/2014,,6/1/2017,http://lists.w3.org/Archives/Public/public-data-shapes-wg,,700,,,
+RDFa Working Group,6,4,10,http://www.w3.org/2010/02/rdfa/track/,2/2/2010,3/31/2011,9/30/2013,http://lists.w3.org/Archives/Public/public-rdfa,3,11,7,7,2013
+Research and Development Working Group,8,11,24,http://www.w3.org/WAI/RD/tracker/,4/12/2011,7/10/2013,9/30/2013,http://lists.w3.org/Archives/Public/public-wai-rd,96,78,0,0,
+Second Screen Presentation Working Group,14,0,30,,10/13/2014,,10/31/2016,http://lists.w3.org/Archives/Public/public-secondscreen,,76,,,
+Social Web Working Group,16,15,46,http://www.w3.org/Social/track/,7/21/2014,,12/31/2016,http://lists.w3.org/Archives/Public/public-socialweb,255,431,2,0,
+Spatial Data on the Web Working Group,5,0,2,http://www.w3.org/2015/spatial/track/,1/6/2015,,12/31/2016,http://lists.w3.org/Archives/Public/public-sdw-wg,,,,,
+SVG Working Group,14,1,33,http://www.w3.org/Graphics/SVG/WG/track/,7/24/1998,7/27/1999,10/31/2016,http://lists.w3.org/Archives/Public/public-svg-wg,120,86,9,3,2011
+System Applications Working Group,30,0,81,http://www.w3.org/2012/sysapps/track/,10/2/2012,,10/1/2014,http://lists.w3.org/Archives/Public/public-sysapps,317,264,7,0,
+Timed Text Working Group,13,4,25,http://www.w3.org/AudioVideo/TT/tracker/,8/16/2008,2/8/2011,3/30/2016,http://lists.w3.org/Archives/Public/public-tt,317,264,4,2,2013
+Tracking Protection Working Group,34,5,81,http://www.w3.org/2011/tracking-protection/track/,9/8/2011,2/13/2013,12/1/2016,http://lists.w3.org/Archives/Public/public-tracking,270,254,2,0,
+User Agent Accessibility Guidelines Working Group,8,6,16,http://www.w3.org/WAI/UA/tracker/,12/1/1997,11/1/2000,9/30/2013,http://lists.w3.org/Archives/Public/w3c-wai-ua,114,97,2,0,2002
+Voice Browser Working Group,20,4,25,https://www.w3.org/Voice/Group/track/,3/26/1999,9/25/2002,4/30/2015,http://lists.w3.org/Archives/Public/w3c-voice-wg,3,6,1,0,2011
+Web Annotation Working Group,21,1,41,http://www.w3.org/annotation/track/,8/20/2014,,10/1/2016,http://lists.w3.org/Archives/Public/public-annotation,83,266,1,0,
+Web Application Security Working Group,30,4,70,http://www.w3.org/2011/webappsec/track/,9/7/2011,10/24/2013,9/30/2014,http://lists.w3.org/Archives/Public/public-webappsec,451,906,7,1,2014
+Web Applications Working Group,32,5,164,http://www.w3.org/2008/webapps/track/,6/9/2008,4/13/2009,7/31/2016,http://lists.w3.org/Archives/Public/public-webapps,653,644,30,10,2014
+Web Content Accessibility Guidelines Working Group,35,34,103,http://www.w3.org/WAI/GL/track/,10/1/1997,11/1/2000,9/30/2013,http://lists.w3.org/Archives/Public/w3c-wai-gl,284,179,0,0,2008
+Web Cryptography Working Group,31,9,78,http://www.w3.org/2012/webcrypto/track/,4/4/2012,9/23/2013,3/31/2015,http://lists.w3.org/Archives/Public/public-webcrypto,603,380,3,1,
+Web Notification Working Group,12,0,16,,9/10/2010,1/29/2013,12/31/2013,http://lists.w3.org/Archives/Public/public-web-notification,0,4,1,0,
+Web Performance Working Group,18,1,52,http://www.w3.org/2010/webperf/track/,8/18/2010,4/25/2011,5/31/2015,http://lists.w3.org/Archives/Public/public-web-perf,245,220,11,5,2013
+Web Real-Time Communications Working Group,41,1,96,http://www.w3.org/2011/04/webrtc/track/,5/5/2011,3/6/2013,2/28/2015,http://lists.w3.org/Archives/Public/public-webrtc,137,385,6,0,
+WebFonts Working Group,9,1,23,http://www.w3.org/Fonts/WG/track/,3/17/2010,5/29/2012,9/30/2012,http://lists.w3.org/Archives/Public/public-webfonts-wg/,93,84,2,0,2012
+XML Core Working Group,7,3,10,,8/7/1996,9/1/1999,5/31/2015,http://lists.w3.org/Archives/Public/public-xml-core-wg,40,87,1,0,2010
+XML Processing Model Working Group,6,3,11,,10/27/2005,10/15/2007,5/31/2016,http://lists.w3.org/Archives/Public/public-xml-processing-model-wg,32,107,3,0,2010
+XML Query Working Group,11,6,23,,9/1/1999,9/19/2001,5/31/2015,http://lists.w3.org/Archives/Public/w3c-xml-query-wg,2,2,9,6,2014
+XML Security Working Group,17,3,28,http://www.w3.org/2008/xmlsec/track/,5/19/2008,5/5/2010,12/31/2016,http://lists.w3.org/Archives/Public/public-xmlsec,10,13,15,3,2013
+XSLT Working Group,7,10,19,,(announced 1998-01-30 **),12/21/1999,5/31/2015,http://lists.w3.org/Archives/Public/w3c-xsl-wg,158,124,10,7,2014
